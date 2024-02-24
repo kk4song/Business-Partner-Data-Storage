@@ -1,7 +1,7 @@
 # Collaborate Education
 
 # What Is Collaborate Education?
-Collaborate Education is a database in which education faculties can store information about business partners, sponsers, community partners, (etc). 
+Collaborate Education is a database in which education faculties can store information about business partners, sponsors, community partners, (etc). 
 This information will be stored in a .txt file within the program. 
 Users will be able to enter the information for each partner, as well as view the information in various ways. 
 They will be able to sort, filter, and search their partners. Additionally, the total number of partners will be displayed.
